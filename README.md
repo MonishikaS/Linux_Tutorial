@@ -1,6 +1,3 @@
-Here is a **clean, structured, day-wise RHEL (Red Hat Enterprise Linux) learning roadmap**, perfect for beginners. It moves from basics → admin skills → advanced server topics in a logical, practical order.
-
----
 
 # **📘 30-Day RHEL Learning Roadmap (Beginner → Admin)**
 
